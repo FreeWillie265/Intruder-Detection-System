@@ -38,6 +38,7 @@ void loop()
 void getPirValue(){
   if(digitalRead(pirPin)){
     Serial.println("Intruder Detected!"); 
+    Blynk.virtualWrite(V1, "Intruder Detected!");
       /*
      *send an email 
      *Make sure no two emails are sent in the same minute
@@ -46,6 +47,8 @@ void getPirValue(){
       sendEmail();
       before = millis();  
     }
+  }else{
+    Blynk.virtualWrite(V1, "!");
   }
   delay(500);
 }
