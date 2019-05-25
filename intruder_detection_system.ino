@@ -1,5 +1,15 @@
+/*************************************************************
 
-//#define BLYNK_MAX_SENDBYTES 128
+  Output any data on LCD widget!
+
+  App project setup:
+
+    LCD widget, SIMPLE mode, in widget settings :
+
+    - Select pin V1 for first pin
+    - Change "Reading Frequency" to PUSH mode
+    - Type into first edit field "/pin0/ seconds"
+ *************************************************************/
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
