@@ -10,9 +10,9 @@ Install blink by following the article on the following link
 http://help.blynk.cc/getting-started-library-auth-token-code-examples/how-to-install-blynk-library-for-arduino
 
 ## Code Configuration
-Put your auth code in the code on line 7  
-Put your Wi-Fi ssid and password on lines 13 and 14, respectively  
-Put your email address on line 19  
+Put your auth code in the code on line 17  
+Put your Wi-Fi ssid and password on lines 23 and 24, respectively  
+Put your email address on line 29  
 
 ## Blynk App Configuration
 
