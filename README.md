@@ -1,6 +1,9 @@
 # Intruder-Detection-System
 Intruder Detection System Using PIR Sensor
 
+## Initialization
+Put the code in a directory with the same name as the .ino file
+Place the directory in the arduino sketches directory
 
 ## Library Installation
 Install blink by following the article on the following link  
