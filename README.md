@@ -3,5 +3,6 @@ Intruder Detection System Using PIR Sensor
 
 
 ## Library Installation
-Download the zip file from http://osoyoo.com/wp-content/uploads/samplecode/pubsubclient.zip and unzip it to your arduino libraries folder
+Install blink by following the article on the link below
+http://help.blynk.cc/getting-started-library-auth-token-code-examples/how-to-install-blynk-library-for-arduino
 
