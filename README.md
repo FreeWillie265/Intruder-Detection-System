@@ -6,8 +6,9 @@ Put the code in a directory with the same name as the .ino file
 Place the directory in the arduino sketches directory
 
 ## Library Installation
-Install blink by following the article on the following link  
-http://help.blynk.cc/getting-started-library-auth-token-code-examples/how-to-install-blynk-library-for-arduino
+Install blink
+[Andoid](https://play.google.com/store/apps/details?id=cloud.blynk&pli=1)
+[IOS](https://apps.apple.com/us/app/blynk-iot/id1559317868)
 
 ## Code Configuration
 Put your auth code in the code on line 17  
